@@ -4,7 +4,7 @@ O desafio era criar um programa de interação com o cliente, para verificar qua
 - Verificação de saldo
 - Transferência
 - Recebimento de um valor
-- Sair da aplcação
+- Sair da aplicação
 <p> Caso nenhuma das opções fosse escolhida, o programa apresentaria uma mensagem padrão de erro, para indicar que a opção escolhida era inválida.
   </br>
 Utilizei o desvio condicional swith case para esse processo, ao invés do while, como foi proposto no projeto em classe.
